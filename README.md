@@ -6,13 +6,6 @@ This project investigates how to stabilize **Recurrent Neural Networks (RNNs)** 
 
 ---
 
-## 📂 Repository Contents
-
-* **`Stabilizing_RNNs_with_Gram–Schmidt_(QR).ipynb`** → Implementation notebook (RNN training, stabilization experiments, evaluation).
-* **`RNN.pdf`** → Full project report including theoretical background, experiment results, and mathematical intuition.
-
----
-
 ##  Key Concepts
 
 * **Why RNNs Break Down**:
